@@ -1,0 +1,27 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.Top-part__about-me{
+    line-height: 24px;
+}
+.Top-part__name_highlight{
+    color: orange;
+}
+.Top-part{
+    display: flex;
+}
+.Top-part__left-side{
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+}.Top-part__right-side{
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.Top-part__right-side img{
+    width: 100%;
+}
